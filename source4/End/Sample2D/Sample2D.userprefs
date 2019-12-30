@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\SceneChanger.cs">
+    <Files>
+      <File FileName="Assets\scripts\PlayerControl.cs" Line="71" Column="3" />
+      <File FileName="Assets\scripts\SceneLoadTimer.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\KillZone.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\SceneChanger.cs" Line="35" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
